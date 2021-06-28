@@ -1,6 +1,6 @@
 # Cypress test cases
 
-Test cases (login and registration pages) for site : http://automationpractice.com/
+Test cases for Egnyte.
 
 ## Getting Started
 
